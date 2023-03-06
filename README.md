@@ -1,4 +1,4 @@
-# Hi there, I'm Aries! 👋
+# Wala lang 'to.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arisuvade&layout=compact" />
 
